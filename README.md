@@ -4,7 +4,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler
 from telegram.ext.filters import Filters, Message, MediaGroup
 
 # Set your bot token and owner user ID
-BOT_TOKEN = 'YOUR_BOT_TOKEN'
+BOT_TOKEN = '6157850456:AAECSQKBOrjcmF_mI9ngnltvsHqjV7TBOEk'
 OWNER_USER_ID = 5841005593  # Replace with the actual owner's user ID
 
 # Set up logging
